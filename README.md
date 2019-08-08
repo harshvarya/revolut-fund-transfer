@@ -18,6 +18,8 @@ Steps to run this project:
 3.	go to target directory. this will create a fat jar i.e. revolut-fund-transfer.jar
 4.	run this java command from target directory: java -jar revolut-fund-transfer.jar
 
+Logs will be generated at this location : C:\revolut-fundtransfer-logs
+
 REST API End points.
 Base URL: http://localhost:9090/revolut/fundtransfer
 
