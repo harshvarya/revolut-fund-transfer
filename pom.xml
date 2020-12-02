@@ -14,7 +14,7 @@
         <junit.version>4.12</junit.version>
         <mockito.version>2.23.4</mockito.version>
         <h2.db.version>1.4.199</h2.db.version>
-        <jetty.version>9.4.6.v20170531</jetty.version>
+        <jetty.version>9.4.35.v20201120</jetty.version>
         <jersey.version>2.27</jersey.version>
         <httpclient.version>4.5.6</httpclient.version>
     </properties>
