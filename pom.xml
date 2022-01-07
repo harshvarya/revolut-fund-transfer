@@ -13,7 +13,7 @@
         <log4j2.version>2.11.1</log4j2.version>
         <junit.version>4.12</junit.version>
         <mockito.version>2.23.4</mockito.version>
-        <h2.db.version>1.4.199</h2.db.version>
+        <h2.db.version>2.0.206</h2.db.version>
         <jetty.version>9.4.6.v20170531</jetty.version>
         <jersey.version>2.27</jersey.version>
         <httpclient.version>4.5.6</httpclient.version>
